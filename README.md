@@ -1,2 +1,0 @@
-# CafeOrder
-Windows Forms App

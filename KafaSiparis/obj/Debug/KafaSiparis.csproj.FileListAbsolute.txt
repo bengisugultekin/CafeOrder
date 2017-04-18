@@ -1,0 +1,9 @@
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\bin\Debug\KafaSiparis.exe.config
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\bin\Debug\KafaSiparis.exe
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\bin\Debug\KafaSiparis.pdb
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\obj\Debug\KafaSiparis.csprojResolveAssemblyReference.cache
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\obj\Debug\KafeSiparis.Form1.resources
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\obj\Debug\KafaSiparis.Properties.Resources.resources
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\obj\Debug\KafaSiparis.csproj.GenerateResource.Cache
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\obj\Debug\KafaSiparis.exe
+C:\Users\Bengisu\Source\Repos\CafeOrder\KafaSiparis\KafaSiparis\obj\Debug\KafaSiparis.pdb
